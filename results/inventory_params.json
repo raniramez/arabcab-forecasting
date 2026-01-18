@@ -1,0 +1,62 @@
+{
+  "xlpe": {
+    "material": "xlpe",
+    "avg_monthly_demand": 1633.369348631906,
+    "demand_std": 66.1192040518609,
+    "annual_demand": 19600.43218358287,
+    "eoq": 329.9868026282168,
+    "safety_stock": 153.8047936880922,
+    "reorder_point": 3420.543490951904,
+    "total_annual_cost": 59397.62447307903,
+    "ordering_cost_annual": 29698.812236539514,
+    "holding_cost_annual": 29698.812236539514,
+    "orders_per_year": 59.39762447307903,
+    "avg_inventory_level": 164.9934013141084,
+    "parameters": {
+      "ordering_cost": 500.0,
+      "holding_cost_monthly": 15.0,
+      "lead_time_months": 2.0,
+      "service_level": 0.95
+    }
+  },
+  "pvc": {
+    "material": "pvc",
+    "avg_monthly_demand": 1980.1773103245453,
+    "demand_std": 3.5472877621693324,
+    "annual_demand": 23762.127723894544,
+    "eoq": 363.33430981439534,
+    "safety_stock": 7.14610358173842,
+    "reorder_point": 2977.4120690685563,
+    "total_annual_cost": 52320.14061327293,
+    "ordering_cost_annual": 26160.070306636466,
+    "holding_cost_annual": 26160.070306636466,
+    "orders_per_year": 65.40017576659116,
+    "avg_inventory_level": 181.66715490719767,
+    "parameters": {
+      "ordering_cost": 400.0,
+      "holding_cost_monthly": 12.0,
+      "lead_time_months": 1.5,
+      "service_level": 0.95
+    }
+  },
+  "lsf": {
+    "material": "lsf",
+    "avg_monthly_demand": 300.7768364541136,
+    "demand_std": 5.430289227692383,
+    "annual_demand": 3609.322037449363,
+    "eoq": 134.33767225632135,
+    "safety_stock": 15.470731388247913,
+    "reorder_point": 917.8012407505887,
+    "total_annual_cost": 32241.041341517128,
+    "ordering_cost_annual": 16120.520670758566,
+    "holding_cost_annual": 16120.520670758562,
+    "orders_per_year": 26.867534451264277,
+    "avg_inventory_level": 67.16883612816068,
+    "parameters": {
+      "ordering_cost": 600.0,
+      "holding_cost_monthly": 20.0,
+      "lead_time_months": 3.0,
+      "service_level": 0.95
+    }
+  }
+}
